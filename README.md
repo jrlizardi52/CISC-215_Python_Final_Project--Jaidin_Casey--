@@ -29,3 +29,4 @@ Git and GitHub for version control and submission
 ## Conclusion/Reflection (Jaidin)
 
 ## Conclusion/Reflection (Casey)
+I learned how to use random.randint effectively. We were able to successfully implement the random number generator into the game. This assignment also gave me more experience with Github. This assignment allowed me to work on a repository with a partner on Github. The collaboration on the project made the code easy to understand. I am confidant with the way our code is running. 
